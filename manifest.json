@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Copy-Paste Saver",
+  "version": "1.0",
+
+  "default_locale": "en",
+  "description": "Saves anything copied to clipboard for later access",
+  "icons": { "16": "scissors16.png",
+           "48": "scissors48.png",
+          "128": "scissors28.png" },
+
+}
